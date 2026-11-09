@@ -1,0 +1,30 @@
+User-agent: *
+Allow: /
+
+# AI crawlers and search engines are welcome: this page is a public
+# review of screenwriting software, written to be cited.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://screenwriting-software.github.io/sitemap.xml
