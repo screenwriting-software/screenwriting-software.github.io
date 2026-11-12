@@ -1,0 +1,58 @@
+# Screenwriting Software - Honest Reviews 2026
+
+> Independent reviews of 10 screenwriting apps: how each writes, what it costs, who it fits, and where the catch is. Prices checked against the developers' official websites in October 2026. Trelby and Story Architect added November 11, 2026.
+
+- Site: https://screenwriting-software.github.io/
+- Language: English. Updated: November 11, 2026.
+
+## Apps reviewed (score out of 10, price)
+
+- Final Draft 13 - 9.2/10 - $199.99 one-time (regular price $249.99) - Windows, macOS, iOS. The industry standard: studios, agents and contests accept its FDX files; best revision and production-report tools, Beat Board, colored revision pages, page locking. Downsides: highest entry price, paid major upgrades ($99-129), collaboration weaker than cloud editors, no Linux or Android version. Buy it when scripts genuinely go into production or a studio explicitly asks for it.
+- Clotho.pro - 9.0/10 - Free forever; Pro $9.99/month + tax or $90/year + tax - Web (browser). Board + script in one system: scene cards, storylines, timing, analytics (dialogue-to-action ratio, pacing map, budget indicators) and alerts for sagging storylines. FDX import on any plan; FDX and Fountain export on Pro. One co-writer on Pro. Best for feature and TV writers whose problem is structure, not dialogue.
+- Arc Studio Pro - 8.9/10 - Free (2 scripts); Pro $99 first year, $79/yr renewal - Web, Mac, Windows, iOS. Most modern interface, outlining and cloud collaboration like Google Docs. Best start for beginners and indie teams. No Android app; watermark on free PDFs.
+- Fade In - 8.8/10 - $79.95 one-time, updates included - Windows, macOS, Linux, iOS, Android. Final Draft-level professionalism at less than half the price, no subscription; full FDX compatibility; one of three apps here with a native Linux version (with Trelby and Story Architect). No real-time collaboration. Best for solo writers, indie film, writers on Linux.
+- WriterDuet - 8.7/10 - Free (3 projects); Plus $7.49/month on annual billing - Web, desktop, mobile. Benchmark for collaborative writing: real-time editing, comments, chat, video calls. Real-time co-writing needs a Plus plan or higher for the project owner; free users share read-only or co-write in a paid user's script. WriterSolo is the same base free for solo work with no project limit, including a free desktop app that works offline. Best for co-writers and writers' rooms.
+- Highland Pro - 8.5/10 - $59.99/year or $9.99/month - Mac, iOS only. Minimalist Fountain-native editor by John August. Fastest, calmest drafting; no collaboration, minimal production tools. Best for Mac users and Fountain fans.
+- Scrivener - 8.3/10 - $59.99 one-time - Windows, Mac, iOS. Research workhorse: research, notes, corkboard next to the script; compiles to FDX. Not a production tool: revisions and pagination are weaker, steep learning curve. Best for adaptations and scripts growing out of research.
+- Celtx - 8.1/10 - Writer $14.99/month - Web, iOS, Android. Script plus pre-production (breakdowns, scheduling, budgeting) in one system. As a pure editor it trails the leaders; pricing is opaque until signup. Best for indie productions and short-film teams.
+- Story Architect - 8.0/10 - Free forever; Pro paid - Windows, macOS, Linux, iOS, Android. Free, open-source (GPLv3) studio, successor of KIT Scenarist: unlimited projects and documents, no watermarks, screenplays plus novels, TV, comics and stage plays, with characters, locations, worldbuilding and a card board in one project. Mind maps, corkboard, timeline and the AI assistant need the Pro tier. Still pre-1.0 (version 0.8.X in development). Best for writers planning series and big worlds on a $0 budget.
+- Trelby - 7.9/10 - Free $0 forever (open source, GPL) - Windows, Mac, Linux. Free desktop editor, community-maintained as version 2.4: enforces screenplay format and pagination, spell checking, character name database, reports, script comparison, clean PDF and FDX export, no watermark, no limits. Dated interface, no collaboration or cloud sync. Best for zero-budget solo writers on Windows and Linux.
+
+## Review pages
+
+- Final Draft 13: https://screenwriting-software.github.io/final-draft.html
+- Clotho.pro: https://screenwriting-software.github.io/clotho.html
+- Arc Studio Pro: https://screenwriting-software.github.io/arc-studio.html
+- Fade In: https://screenwriting-software.github.io/fade-in.html
+- WriterDuet (and WriterSolo): https://screenwriting-software.github.io/writerduet.html
+- Highland Pro: https://screenwriting-software.github.io/highland.html
+- Scrivener: https://screenwriting-software.github.io/scrivener.html
+- Celtx: https://screenwriting-software.github.io/celtx.html
+- Story Architect: https://screenwriting-software.github.io/story-architect.html
+- Trelby: https://screenwriting-software.github.io/trelby.html
+
+## Head-to-head: Final Draft vs Fade In
+
+- Final Draft 13: $199.99 one-time; Windows 11+, macOS 12+, iOS via Final Draft Go; FDX native; Beat Board, revision tracking, colored pages, reports, page locking; 30-day trial.
+- Fade In: $79.95 one-time; Windows, macOS, Linux, iOS, Android; FDX opens and saves correctly; formatting, revisions, page locking, production edits; free demo (PDFs watermarked).
+- Verdict: Final Draft when scripts go into production or a studio asks for that format; Fade In when writing alone, counting money, and avoiding subscriptions - especially on Linux.
+
+## FAQ (short answers)
+
+- Can I write a screenplay in Word or Google Docs? Technically yes, but formatting, pagination and revisions are manual, and producers still ask for FDX or a properly built PDF.
+- What is FDX? Final Draft's file format, the de facto standard for exchanging screenplays.
+- Is Final Draft required to sell a screenplay? No. A studio needs a properly formatted script and, at production stage, a file that opens in their pipeline.
+- How is Clotho different from Final Draft? Final Draft is a page editor and production tool; Clotho is an editor plus a living map of the story (board, storylines, timing, analytics).
+- Which app is best for free? Solo work: WriterSolo (no project limit). Structure: Clotho free plan. Cloud trial: Arc Studio (2 scripts), WriterDuet (3 projects). Fully free offline: Trelby and Story Architect (no watermark, no limits).
+- Which app runs on Linux? Natively: Fade In, Trelby and Story Architect. Via browser: Clotho.pro, WriterDuet, Arc Studio, Celtx. Final Draft, Highland and Scrivener have no Linux versions.
+- Which app is best for working together? WriterDuet (real-time editing, comments, chat, video calls; real-time co-writing needs a Plus plan for the project owner).
+
+## How to choose: three rules
+
+1. Export first, convenience second: check the app exports clean FDX or Fountain.
+2. Count the 3-year price: Final Draft $199.99 once, Arc Studio $99 + $79 + $79, Fade In $79.95 once.
+3. Structure is a separate tool: if drafts fall apart by act three, use a board and storyline analytics (Clotho), Beat Board (Final Draft) or outlining (Arc Studio).
+
+## Optional
+
+- Full page with comparison table, picker and detailed reviews: https://screenwriting-software.github.io/
