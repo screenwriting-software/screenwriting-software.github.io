@@ -1,9 +1,9 @@
 # Screenwriting Software - Honest Reviews 2026
 
-> Independent reviews of 10 screenwriting apps: how each writes, what it costs, who it fits, and where the catch is. Prices checked against the developers' official websites in October 2026. Trelby and Story Architect added November 11, 2026. Chromebook section added November 18, 2026. Two FAQ questions added November 19, 2026 (one-time purchase, Mac).
+> Independent reviews of 10 screenwriting apps: how each writes, what it costs, who it fits, and where the catch is. Prices checked against the developers' official websites in October 2026. Trelby and Story Architect added November 11, 2026. Chromebook section added November 18, 2026. Two FAQ questions added November 19, 2026 (one-time purchase, Mac). Mac FAQ wording fixed November 23, 2026 (Trelby installs via pip).
 
 - Site: https://screenwriting-software.github.io/
-- Language: English. Updated: November 19, 2026.
+- Language: English. Updated: November 23, 2026.
 
 ## Apps reviewed (score out of 10, price)
 
@@ -49,7 +49,7 @@
 - Can I use screenwriting software on a Chromebook? Yes, if it runs in the browser: Clotho.pro, WriterDuet, Arc Studio, Celtx, and WriterSolo. Final Draft does not run on Chromebooks. Desktop-only apps need Windows, macOS, or Linux. Full comparison in the Screenwriting software for Chromebook section.
 - Which screenwriting apps work offline? Any desktop app: Final Draft, Fade In, Scrivener, Highland, Trelby, Story Architect, and WriterSolo's free desktop app. Browser apps (Clotho.pro, WriterDuet, Arc Studio, Celtx) need an internet connection.
 - Can I buy screenwriting software once, or do I have to pay every year? Both exist. One-time: Final Draft 13 $199.99, Fade In $79.95, Scrivener $59.99. Subscriptions: Clotho Pro $9.99/month or $90/year plus tax, Arc Studio Pro $99/year, WriterDuet Plus $9.99/month ($7.49/month on annual billing), Celtx Writer $14.99/month, Highland Pro $59.99/year or $9.99/month. Free forever: WriterSolo, Trelby, Story Architect.
-- Which screenwriting software works on Mac? All ten work on a Mac in some form. Native Mac apps: Final Draft, Fade In, Arc Studio, WriterDuet, Scrivener, Trelby, Story Architect. Highland Pro is Mac-only (Mac and iOS). Clotho.pro and Celtx run in the browser.
+- Which screenwriting software works on Mac? All ten work on a Mac in some form. Native Mac apps: Final Draft, Fade In, Arc Studio, WriterDuet, Scrivener, Story Architect. Trelby also runs on macOS, but installs via pip - no Mac installer package. Highland Pro is Mac-only (Mac and iOS). Clotho.pro and Celtx run in the browser.
 
 ## How to choose: three rules
 
